@@ -2,14 +2,13 @@
 
 - 🌟 Sobre meu Git: Olá sou novo no git e ainda estou pegando o jeito, então ainda não está completo.
 - 👨‍💻 Atualmente estou estudando sobre Python, Javascript, HTML5, CSS, C e um pouco sobre PHP.
-- 👨🏻‍🎓 Aceito dicas de como melhorar e me aperfeiçoar.
+- 👨🏻‍🎓 Estou aberto a dicas de como melhorar e me aperfeiçoar.
 - 📫 Pode me contactar pelo meu email: brunolimsant@gmail.com
 - 🧑🏻 Pronomes: ele/dele.
 
 
 <div align="center">
   <a href="https://github.com/Bruno-LS?tab=repositories">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruno-LS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-LS&layout=compact&langs_count=8&theme=dracula">
 </div><br><br>
   
