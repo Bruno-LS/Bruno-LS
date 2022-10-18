@@ -4,7 +4,6 @@
 - 👨‍💻 Atualmente estou estudando sobre Python, Javascript, HTML5, CSS, C e um pouco sobre PHP.
 - 👨🏻‍🎓 Estou aberto a dicas de como melhorar e me aperfeiçoar.
 - 📫 Pode me contactar pelo meu email: brunolimsant@gmail.com
-- 🧑🏻 Pronomes: ele/dele.
 
 
 <div align="center">
