@@ -11,12 +11,14 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-LS&layout=compact&langs_count=8&theme=dracula">
 </div><br><br>
   
-  ### Aqui ficam as linguagens que conheço e sei usar, se não encontrar nenhum repositório sobre é porque no momento ainda não dei upload😅🤗
+  ### Aqui ficam as linguagens que conheço e sei usar
 <div style="display: inline;">
   <img alt="Bruno-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img  alt="Bruno-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img  alt="Bruno-Html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="Bruno-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div> 
+### Selo de certificação do Curso Introdução à Ciência de Dados da Cisco
+https://www.credly.com/badges/6b804152-2036-4da3-912e-0f5ba966c242/public_url
   
  
