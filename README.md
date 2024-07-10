@@ -17,7 +17,8 @@
   <img  alt="Bruno-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img  alt="Bruno-Html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="Bruno-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="Bruno-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  <img alt="Bruno-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  
 </div> 
 <a href="https://www.credly.com/badges/6b804152-2036-4da3-912e-0f5ba966c242/public_url">Selo de certificação do Curso Introdução à Ciência de Dados da Cisco</a>
   
