@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-LS&layout=compact&langs_count=8&theme=dracula">
 </div><br><br>
   
-  ### Aqui ficam as linguagens que conheço e sei usar
+  ### Linguagens das quais tenho conhecimentos
 <div style="display: inline;">
   <img alt="Bruno-C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img  alt="Bruno-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
