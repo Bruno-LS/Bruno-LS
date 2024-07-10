@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil, Eu sou o Bruno-LS
 
-- 🌟 Sobre meu Git: Olá sou novo no git e ainda estou pegando o jeito, então ainda não está completo.
-- 👨‍💻 Atualmente estou estudando sobre Python, Javascript, HTML5, CSS, C e um pouco sobre PHP.
+- 🌟 Sobre meu Git: Este github está direcionado a ser um respositorio de meus estudos e aprendizados.
+- 👨‍💻 Atualmente estou estudando sobre Python, e suas implicações na área de dados.
 - 👨🏻‍🎓 Estou aberto a dicas de como melhorar e me aperfeiçoar.
 - 📫 Pode me contactar pelo meu email: brunolimsant@gmail.com
 
@@ -17,6 +17,7 @@
   <img  alt="Bruno-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img  alt="Bruno-Html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img alt="Bruno-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img alt="Bruno-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/Python-original.svg">
 </div> 
 <a href="https://www.credly.com/badges/6b804152-2036-4da3-912e-0f5ba966c242/public_url">Selo de certificação do Curso Introdução à Ciência de Dados da Cisco</a>
   
